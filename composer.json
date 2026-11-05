@@ -6,7 +6,7 @@
   "description": "A PHP client library for 'Vault by HashiCorp'",
   "require": {
     "ext-json": "*",
-    "guzzlehttp/psr7": "^2.7.1",
+    "guzzlehttp/psr7": "^2.12.3 || ^3.0",
     "php": ">=8.3"
   },
   "suggest": {
